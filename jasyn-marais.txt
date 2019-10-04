@@ -1,0 +1,15 @@
+PR Template courtesy of Chinedu
+
+## What does this PR do?
+ User interface I Project solution
+
+## Description of tasks completed
+- Implemented A
+- Implemented B
+- Implemented C (Stretch)
+- Implemented D (Stretch)
+
+## How can this be tested?
+ Outline steps to get the work done tested (optional)
+
+## Relevant screenshot (if applicable)
